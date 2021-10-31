@@ -37,10 +37,12 @@ body {
 
 .subheading {
   font-size: 1.4em;
-  font-weight: 400;
+  /* "normal" font weight */
+  font-weight: 400; 
 }
 
 .photo {
+  /* slightly rounded corner */
   border-radius: 2px;
 }
 
